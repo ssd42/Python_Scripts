@@ -1,0 +1,1 @@
+#Use of Knuths algorithm to solve a game of mastermind
